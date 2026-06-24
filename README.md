@@ -1,20 +1,46 @@
-\# Task Tracker Full Stack
+\# 🚀 Task Tracker Full Stack
 
 
 
-\## Proje Hakkında
+Modern bir görev takip uygulaması.
 
 
 
-Bu proje NextJS, NestJS ve PostgreSQL kullanılarak geliştirilmiş bir görev takip uygulamasıdır.
+Bu proje, \*\*NextJS\*\*, \*\*NestJS\*\* ve \*\*PostgreSQL\*\* kullanılarak geliştirilmiş bir Full Stack uygulamadır.
 
 
 
-Kullanıcılar görev ekleyebilir, silebilir, tamamlayabilir ve görevlerini filtreleyebilir.
+\---
 
 
 
-\## Kullanılan Teknolojiler
+\## 📌 Proje Hakkında
+
+
+
+Kullanıcılar:
+
+
+
+\* ➕ Görev ekleyebilir
+
+\* ✅ Görev tamamlayabilir
+
+\* 🗑️ Görev silebilir
+
+\* 🎯 Öncelik belirleyebilir
+
+\* 🔍 Görev arayabilir
+
+\* 📂 Görev filtreleyebilir
+
+
+
+\---
+
+
+
+\## 🛠️ Kullanılan Teknolojiler
 
 
 
@@ -50,25 +76,75 @@ Kullanıcılar görev ekleyebilir, silebilir, tamamlayabilir ve görevlerini fil
 
 
 
-\## Özellikler
+\---
 
 
 
-\* Görev ekleme
-
-\* Görev silme
-
-\* Görev tamamlama
-
-\* Öncelik belirleme
-
-\* Görev filtreleme
-
-\* Görev arama
+\## ✨ Özellikler
 
 
 
-\## Kurulum
+| Özellik          | Durum |
+
+| ---------------- | ----- |
+
+| Görev Ekleme     | ✅     |
+
+| Görev Silme      | ✅     |
+
+| Görev Tamamlama  | ✅     |
+
+| Öncelik Sistemi  | ✅     |
+
+| Görev Filtreleme | ✅     |
+
+| Görev Arama      | ✅     |
+
+
+
+\---
+
+
+
+\## 📂 Proje Yapısı
+
+
+
+```text
+
+task-tracker-fullstack
+
+│
+
+├── backend
+
+│   ├── prisma
+
+│   ├── src
+
+│   └── ...
+
+│
+
+├── frontend
+
+│   ├── app
+
+│   └── ...
+
+│
+
+└── README.md
+
+```
+
+
+
+\---
+
+
+
+\## ⚙️ Kurulum
 
 
 
@@ -104,7 +180,11 @@ npm run dev
 
 
 
-\## Öğrenilen Konular
+\---
+
+
+
+\## 🎓 Bu Projede Öğrendiklerim
 
 
 
@@ -112,17 +192,45 @@ npm run dev
 
 \* CRUD işlemleri
 
+\* PostgreSQL veritabanı kullanımı
+
 \* Prisma ORM
 
-\* PostgreSQL
+\* Docker ile veritabanı yönetimi
 
-\* Docker
+\* NextJS ile modern arayüz geliştirme
 
-\* NextJS
+\* NestJS ile backend geliştirme
 
-\* NestJS
+\* Git ve GitHub kullanımı
 
-\* Git ve GitHub
+
+
+\---
+
+
+
+\## 📷 Ekran Görüntüsü
+
+
+
+> Projenin ekran görüntüleri daha sonra eklenecektir.
+
+
+
+\---
+
+
+
+\## 👩‍💻 Geliştirici
+
+
+
+\*\*Gizem Derici\*\*
+
+
+
+Bilişim Sistemleri Mühendisliği Öğrencisi
 
 
 
